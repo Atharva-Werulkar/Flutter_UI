@@ -1,6 +1,6 @@
 # flutter_ui
 
-A new Flutter project.
+A Simple Flutter UI .
 
 ## Getting Started
 
