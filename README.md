@@ -1,16 +1,10 @@
 # flutter_ui
 
-A Simple Flutter UI .
+A Simple Flutter UI.
 
-## Getting Started
+## SIMPLE UI 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230927-173704](https://github.com/Atharva-Werulkar/Flutter_UI/assets/110187613/544eb17d-23b3-4216-947a-d9dae5d6e2dc)
+![Screenshot_20230927-173657](https://github.com/Atharva-Werulkar/Flutter_UI/assets/110187613/3641244f-4d78-486b-ada7-8d57fea10962)
